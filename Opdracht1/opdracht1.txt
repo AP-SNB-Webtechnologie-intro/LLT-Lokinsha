@@ -1,7 +1,26 @@
 Onderwerp: Cocktail (The Cocktail bar)
 Pagina's: Home
-          Cocktails
-          Recepten
+        - Sfeerbeeld van een cocktailbar/cocktails.
+        - Uitleg over mijn passie voor cocktails.
+        - Foto van mezelf met een cocktail of in een cocktailbar.
+
+          Overzicht
+        - Zes topics gerelateerd aan cocktails
+        - klassieke Cocktails
+        - Exotische mixen
+        - Mocktails (alcoholvrije coctails)
+        - Beroemde Cocktails
+        - cocktailingrediënten
+        - DIY cocktails thuis
+
+          Topic-pagina'S
+        - Voor elk van de zes topics:
+          - titel van het topic
+          - ondertitel
+          - lijst met populaire cocktails of ingrediënten
+          - afbeeliding met bijschrift.
+          - kaart met markering
+          
           log in/register
           contact
 
